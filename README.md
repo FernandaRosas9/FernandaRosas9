@@ -1,6 +1,12 @@
 ## Oi!! Eu sou a FernandaRosas9!
 <div>
   <img align="right" height="291px" src="https://cdn.discordapp.com/attachments/133692722086150144/1394011173476896828/ezgif.com-animated-gif-maker.gif?ex=68754193&is=6873f013&hm=11b97074ffb488bd854db89e1df61f681f0e5779774f75a370d9200bb6ea99d6&" alt="gif animado de uma garotinha"></div> <br>
+   <br>
+ <br>
+  <br>
+ <br>
+<br>
+ <br>
 💻 Dev em construção <br>
 ✒ Designer  <br>
 🎨 Ilustradora  <br>
