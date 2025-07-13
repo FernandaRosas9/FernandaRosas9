@@ -1,17 +1,23 @@
 ## Oi!! Eu sou a FernandaRosas9!
-<div style="display: inline-block; border: 1px solid blue; padding: 10px;">
+<div>
+  <img align="right" height="291px" src="https://cdn.discordapp.com/attachments/133692722086150144/1394011173476896828/ezgif.com-animated-gif-maker.gif?ex=68754193&is=6873f013&hm=11b97074ffb488bd854db89e1df61f681f0e5779774f75a370d9200bb6ea99d6&" alt="gif animado de uma garotinha"></div> <br>
 💻 Dev em construção <br>
 ✒ Designer  <br>
 🎨 Ilustradora  <br>
-<img align="right" height="265px" src="https://cdn.discordapp.com/attachments/133692722086150144/1394011173476896828/ezgif.com-animated-gif-maker.gif?ex=68754193&is=6873f013&hm=11b97074ffb488bd854db89e1df61f681f0e5779774f75a370d9200bb6ea99d6&" alt="gif animado de uma garotinha"></div>
+ <br>
+ <br>
+  <br>
+ <br>
+<br>
+ <br>
+
 
 ## Meu Desempenho no GitHub:
-
+<br>
 <div style="display: inline-block; border: 1px solid blue; padding: 10px;">
-  <img height="125em" width="270em" src="https://github-readme-stats.vercel.app/api?username=FernandaRosas9&show_icons=true&theme=catppuccin_mocha">
-  <img height="125em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaRosas9&theme=catppuccin_mocha&layout=compact">
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=FernandaRosas9&show_icons=true&theme=catppuccin_mocha">
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaRosas9&theme=catppuccin_mocha&layout=compact">
 </div>
-
 
 ## Linguagens e Ferramentas:
 
@@ -28,13 +34,11 @@
 
 <a href="https://www.linkedin.com/in/fernanda-rosas-0006b0144" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</a> <br>
 <a href="mailto:ninefisr@gmail.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.instagram.com/fer.rosas" target="_blank" style="text-decoration: none;">
+</a> <br>
+<a href="https://www.instagram.com/fer.rosas9" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://discord.gg/catwitch" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
+</a> <br>
+<img src="https://img.shields.io/badge/Discord-catwitch-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord catwitch">
