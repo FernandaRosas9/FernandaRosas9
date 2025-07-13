@@ -8,8 +8,8 @@
 ## Meu Desempenho no GitHub:
 
 <div>
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=FernandaRosas9&show_icons=true&theme=catppuccin_mocha">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaRosas9&theme=catppuccin_mocha&layout=compact">
+  <img height="125px" width="270" src="https://github-readme-stats.vercel.app/api?username=FernandaRosas9&show_icons=true&theme=catppuccin_mocha">
+  <img height="125px" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaRosas9&theme=catppuccin_mocha&layout=compact">
 </div>
 
 
