@@ -3,13 +3,13 @@
 💻 Dev em construção <br>
 ✒ Designer  <br>
 🎨 Ilustradora  <br>
-  <img align="right" height="265px" src="https://cdn.discordapp.com/attachments/133692722086150144/1394011173476896828/ezgif.com-animated-gif-maker.gif?ex=68754193&is=6873f013&hm=11b97074ffb488bd854db89e1df61f681f0e5779774f75a370d9200bb6ea99d6&" alt="gif animado de uma garotinha"></div>
+<img align="right" height="265px" src="https://cdn.discordapp.com/attachments/133692722086150144/1394011173476896828/ezgif.com-animated-gif-maker.gif?ex=68754193&is=6873f013&hm=11b97074ffb488bd854db89e1df61f681f0e5779774f75a370d9200bb6ea99d6&" alt="gif animado de uma garotinha"></div>
 
 ## Meu Desempenho no GitHub:
 
-<div>
-  <img height="125px" width="270" src="https://github-readme-stats.vercel.app/api?username=FernandaRosas9&show_icons=true&theme=catppuccin_mocha">
-  <img height="125px" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaRosas9&theme=catppuccin_mocha&layout=compact">
+<div style="display: inline-block; border: 1px solid blue; padding: 10px;">
+  <img height="125em" width="270em" src="https://github-readme-stats.vercel.app/api?username=FernandaRosas9&show_icons=true&theme=catppuccin_mocha">
+  <img height="125em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaRosas9&theme=catppuccin_mocha&layout=compact">
 </div>
 
 
