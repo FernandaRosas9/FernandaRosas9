@@ -6,7 +6,7 @@
  <br>
 <br>
  <br>
-💻 Dev em construção <br>
+💻 Dev front end <br>
 ✒ Designer  <br>
 🎨 Ilustradora  <br>
  <br>
