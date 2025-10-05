@@ -6,7 +6,7 @@
 🎨 Ilustradora  <br>
  <br>
  <br>
-Apaixonada por desenhar e que atualmente trabalha com teconologias como JavaScript, TypeScript, ReactJS e Node.js enquanto também estuda bancos de dados como MySQL e MongoDB.
+Apaixonada por desenhar e que atualmente trabalha com teconologias como JavaScript, TypeScript, ReactJS e Node.js e também estuda bancos de dados como MySQL e MongoDB.
 
   <br>
  <br>
